@@ -1,19 +1,16 @@
 
 /*
-  task with FREECODECAMP JS  number one
+  task with FREECODECAMP JS
 */
+//one
 // This is an in-line comment.
 /* This is a
 multi-line comment */
 
-/*
-  task with FREECODECAMP JS  number two
-*/
+//two
 var myName;
 
-/*
-  task with FREECODECAMP JS  number three
-*/
+//three
 // Setup
 var a;
 
@@ -21,21 +18,22 @@ var a;
 var a = 7;
 
 
-
 /*
-  task with FREECODECAMP HTML  number one
+  task with FREECODECAMP HTML
 */
+//one
 <h1>Hello World</h1>
   
-/*
-  task with FREECODECAMP HTML  number two
-*/
+//two
 {<h1>Hello World</h1>}
 {<h2>CatPhotoApp</h2>}
 
-/*
-  task with FREECODECAMP HTML  number three
-*/
+//three
 {<h1>Hello World</h1>}
 {<h2>CatPhotoApp</h2>}
 {<p>Hello Paragraph</p>}
+
+//four
+{<h1>Hello World</h1>}
+{<h2>CatPhotoApp</h2>}
+{<p>Kitty Ipsum</p>}
