@@ -52,3 +52,6 @@ console.log(FCC, fact);
 
 //data type of NUMBER
 const sum = 10 + 10;
+
+//subtraction
+const difference = 45 - 33;
