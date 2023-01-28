@@ -22,3 +22,7 @@ var b;
 
 // Only change code below this line
 b = a
+
+// variable declaration myVar and a
+var myVar = 0;
+var a = 9
