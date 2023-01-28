@@ -39,3 +39,7 @@ var titleCaseOver;
 studlyCapVar = 10;
 properCamelCase = "A String";
 titleCaseOver = 9000;
+
+//keyword let
+let catName = "Oliver";
+let catSound = "Meow!";
