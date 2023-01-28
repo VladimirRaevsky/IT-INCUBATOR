@@ -43,3 +43,9 @@ titleCaseOver = 9000;
 //keyword let
 let catName = "Oliver";
 let catSound = "Meow!";
+
+//keyword const
+const FCC = "freeCodeCamp";
+let fact = "is cool!";
+fact = "is awesome!";
+console.log(FCC, fact);
