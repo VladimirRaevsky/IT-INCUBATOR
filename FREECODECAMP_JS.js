@@ -58,3 +58,6 @@ const difference = 45 - 33;
 
 //* symbol 
 const product = 8 * 10;
+
+//  / symbol
+const quotient = 66 / 33;
