@@ -94,8 +94,35 @@
     Intently stare at the same spot poop in the plant pot but kitten is playing with dead mouse. Get video posted to internet for chasing red dot leave fur on owners clothes meow to be let out and mesmerizing birds leave fur on owners clothes or favor packaging over toy so purr for no reason. Meow to be let out play time intently sniff hand run outside as soon as door open yet destroy couch.
   </p>
 </main>}
+{
 <footer 
   id="footer"
   >
   Copyright Cat Photo App
 </footer>
+}
+
+//nested tag a
+<h2>CatPhotoApp</h2>
+{
+<main>
+<p>
+  <a 
+    href="https://www.freecatphotoapp.com"   
+    target="_blank"
+  >
+    cat photos
+    </a>
+  View more cat photos
+</p>
+  <img 
+    src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" 
+    alt="A cute orange cat lying on its back."
+  />
+  <p>
+    Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.
+  </p>
+  <p>
+    Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.
+  </p>
+</main>}
