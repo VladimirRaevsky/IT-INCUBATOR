@@ -55,3 +55,6 @@ const sum = 10 + 10;
 
 //subtraction
 const difference = 45 - 33;
+
+//* symbol 
+const product = 8 * 10;
