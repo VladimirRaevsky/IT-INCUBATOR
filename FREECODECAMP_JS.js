@@ -23,6 +23,10 @@ var b;
 // Only change code below this line
 b = a
 
-// variable declaration myVar and a
+// variables declaration myVar and a
 var myVar = 0;
 var a = 9
+
+//variables declaration myFirstName and myLastName
+var myFirstName = "myFirstName"
+var myLastName  = "myLastName"
