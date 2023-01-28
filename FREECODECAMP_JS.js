@@ -49,3 +49,6 @@ const FCC = "freeCodeCamp";
 let fact = "is cool!";
 fact = "is awesome!";
 console.log(FCC, fact);
+
+//data type of NUMBER
+const sum = 10 + 10;
