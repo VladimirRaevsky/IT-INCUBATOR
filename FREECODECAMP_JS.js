@@ -30,3 +30,12 @@ var a = 9
 //variables declaration myFirstName and myLastName
 var myFirstName = "myFirstName"
 var myLastName  = "myLastName"
+
+//variables declaration in cameCase
+var properCamelCase;
+var titleCaseOver;
+
+// Variable assignments
+studlyCapVar = 10;
+properCamelCase = "A String";
+titleCaseOver = 9000;
