@@ -67,3 +67,9 @@ let myVar = 87;
 
 // Only change code below this line
 myVar++;
+
+//decrement
+let myVar = 11;
+
+// Only change code below this line
+myVar--;
