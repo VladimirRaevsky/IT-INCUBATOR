@@ -82,3 +82,6 @@ const myDecimal = 5.7
 
 //Multiply Two Decimals with JavaScript
 const productTwo = 2.0 * 2.5;
+
+//Divide One Decimal by Another with JavaScript
+const quotientTwo = 4.4 / 2.0;
