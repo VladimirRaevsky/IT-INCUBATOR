@@ -108,3 +108,13 @@ let c2 = 3;
 a -= 6;
 b -= 15;
 c2 -= 1;
+
+//Compound Assignment With Augmented Multiplication
+let a1 = 5;
+let b1 = 12;
+let c1 = 4.6;
+
+// Only change code below this line
+a1 *= 5;
+b1 *= 3;
+c1 *= 10;
